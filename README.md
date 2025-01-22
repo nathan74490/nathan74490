@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm studying at ecole by CCI
+...
 I'm web developers
 
 <!--
